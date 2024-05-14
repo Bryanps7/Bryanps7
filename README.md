@@ -1,6 +1,6 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
 <body>
-    <img src="bryanPrinz.mp4" alt="">
+    <video width="100" height="100" controls>
+        <source src="bryanPrinz.mp4" type="video/mp4">
+    </video>
 </body>
-</html>
+
