@@ -23,7 +23,7 @@
     <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
     <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
     <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" />
-    <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
+    <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
     <img height="200em" src="https://github.com/Bryanps7/Bryanps7/blob/main/Bryan-Art.jpg" align="right">
     
   </div>
