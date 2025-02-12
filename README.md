@@ -8,9 +8,6 @@
     <img height="200em" src="https://github-readme-stats.vercel.app/api/?username=Bryanps7&show_icons=true&theme=gotham">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryanps7&theme=gotham&layout=donut">
   </div>
-  <div>
-    <img id="viewer" src="https://visitcount.itsvg.in/api?id=Bryanps7&label=Profile%20Views&pretty=false" style="width: 200px !important;">
-  </div>
 
   ##
 
@@ -26,7 +23,9 @@
     <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
     <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
     <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" />
+    <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
     <img height="200em" src="https://github.com/Bryanps7/Bryanps7/blob/main/Bryan-Art.jpg" align="right">
+    
   </div>
   
   ##
