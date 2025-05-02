@@ -6,7 +6,7 @@
 <div align="center">
   <div class="graficos">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/?username=Bryanps7&show_icons=true&theme=gotham">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryanps7&theme=gotham">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryanps7&theme=gotham&layout=donut">
   </div>
 
   ##
